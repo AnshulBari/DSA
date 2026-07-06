@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AnshulBari/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0151-reverse-words-in-a-string](https://github.com/AnshulBari/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/AnshulBari/DSA/tree/main/0443-string-compression/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -27,5 +28,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/AnshulBari/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/AnshulBari/DSA/tree/main/0443-string-compression/) | Medium |
 <!---LeetCode Topics End-->
