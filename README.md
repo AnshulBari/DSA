@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/AnshulBari/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/AnshulBari/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/AnshulBari/DSA/tree/main/0443-string-compression/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/AnshulBari/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +36,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/AnshulBari/DSA/tree/main/0061-rotate-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/AnshulBari/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
