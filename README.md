@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AnshulBari/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/AnshulBari/DSA/tree/main/0061-rotate-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/AnshulBari/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AnshulBari/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/AnshulBari/DSA/tree/main/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AnshulBari/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -36,5 +37,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/AnshulBari/DSA/tree/main/0061-rotate-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/AnshulBari/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AnshulBari/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/AnshulBari/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
