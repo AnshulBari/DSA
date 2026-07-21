@@ -38,9 +38,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/AnshulBari/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AnshulBari/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/AnshulBari/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AnshulBari/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/AnshulBari/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/AnshulBari/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
