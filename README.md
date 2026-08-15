@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/AnshulBari/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AnshulBari/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/AnshulBari/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0344-reverse-string](https://github.com/AnshulBari/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/AnshulBari/DSA/tree/main/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AnshulBari/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Dynamic Programming
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AnshulBari/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0344-reverse-string](https://github.com/AnshulBari/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/AnshulBari/DSA/tree/main/0443-string-compression/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
